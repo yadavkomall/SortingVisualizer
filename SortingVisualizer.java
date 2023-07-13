@@ -114,7 +114,7 @@ public class SortingVisualizer extends JPanel {
             }
         });
 
-        //arraysSort
+        //arrays.sort() function
         arraysSort = new JButton("Arrays.sort()");
         arraysSort.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e) {
